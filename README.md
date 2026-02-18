@@ -6,19 +6,16 @@ This repository contains solutions to the Python Programming – Data Processing
 
 The objective of this assignment is to apply core Python concepts to real-world data scenarios involving:
 
-Data validation
-
-Frequency analysis
-
-Conditional filtering
-
-Dictionary and list operations
-
-Basic statistical calculations
+- Data validation
+- Frequency analysis
+- Conditional filtering
+- Dictionary and list operations
+- Basic statistical calculations
 
 All problems are implemented using clean, well-structured, and properly commented Python code.
 
 🧠 Problems Covered
+
 1️⃣ Employee Performance Bonus Eligibility
 
 Identifies top-performing employees based on performance scores, including handling tie cases.
@@ -28,11 +25,8 @@ Identifies top-performing employees based on performance scores, including handl
 Processes a user search query by:
 
 Converting text to lowercase
-
 Removing punctuation
-
 Counting keyword frequency
-
 Displaying repeated keywords
 
 3️⃣ Sensor Data Validation
